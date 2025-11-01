@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+boto3
+psycopg2
+openpyxl
+PyPDF2
+langchain
+opensearch-py
+requests
